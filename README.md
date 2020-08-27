@@ -1,1 +1,1 @@
-privet kak dela
+Privet ne kak dela
