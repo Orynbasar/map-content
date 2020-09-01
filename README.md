@@ -1,0 +1,1 @@
+Privet ne kak dela
