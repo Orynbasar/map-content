@@ -5,6 +5,6 @@
 *.vxml_c
 *.vcss_c
 *.vjs_c
-
+newmap.tga
 panorama_debugger.cfg
 settings.kv
