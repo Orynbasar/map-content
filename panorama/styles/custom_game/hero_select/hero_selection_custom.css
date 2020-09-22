@@ -1,0 +1,22 @@
+.CustomSelectView {
+    height: 100%;
+    width: 100%;
+}
+
+#CustomSelectAndPlayerPanel {
+    height: 100%;
+    width: 100%;
+    flow-children: down-wrap;
+    background-color: #393e46;
+}
+
+#SelectedHeroList {
+    height: 20%;
+    width: 100%;
+    flow-children: down-wrap;
+}
+
+#HeroSelectPanel {
+    flow-children: right-wrap;
+    horizontal-align: center;
+}

@@ -1,0 +1,50 @@
+.HeroSelectPanel {
+    height: 234px;
+    width: 358px;
+    border: 6px solid #393e46;
+    flow-children: right;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: 50px;
+}
+
+.HeroSceneAndSelectButton {
+    height: 222px;
+    width: 182px;
+    flow-children: down;
+}
+
+.HeroScene {
+    height: 182px;
+    width: 182px;
+    background-color: gradient(radial, 50% 50%, 0% 0%, 75% 75%, from(#969090), to(#242222));
+}
+
+.SelectButton {
+    height: 40px;
+    width: 182px;
+}
+
+.SelectButtonLabel
+{
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-align: center;
+    horizontal-align: center;
+    vertical-align: middle;
+    color: #eeeeee;
+    font-family: "Tahoma";
+    font-size: 18px;
+}
+
+.DefendersGroup {
+    flow-children: down-wrap;
+    height: 222px;
+    width: 164px;
+}
+
+.Defender {
+    height: 74px;
+    width: 82px;
+    border: 1px solid #52616b;
+}

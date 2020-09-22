@@ -1,0 +1,23 @@
+<root>
+    <styles>
+        <include src="file://{resources}/styles/custom_game/hero_select/hero_selection_custom.css"/>
+        <include src="file://{resources}/styles/custom_game/hero_select/hero_select_scene.css"/>
+        <include src="file://{resources}/styles/custom_game/hero_select/selected_hero_panel.css"/>
+        <include src="file://{resources}/styles/custom_game/button.css"/>
+    </styles>
+    <scripts>
+        <include src="file://{resources}/scripts/custom_game/main.js"/>
+        <include src="file://{resources}/scripts/custom_game/hero_select/hero_select_custom.js"/>
+    </scripts>
+
+    <Panel class="CustomSelectView">
+        <Panel id="CustomSelectAndPlayerPanel" onmouseactivate=""> <!-- Prevent click through -->
+            <Panel id="SelectedHeroList">
+
+            </Panel>
+            <Panel id="HeroSelectPanel">
+
+            </Panel>
+        </Panel>
+    </Panel>
+</root>
