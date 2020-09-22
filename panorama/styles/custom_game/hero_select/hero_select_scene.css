@@ -18,7 +18,7 @@
 .HeroScene {
     height: 182px;
     width: 182px;
-    background-color: gradient(radial, 50% 50%, 0% 0%, 75% 75%, from(#969090), to(#242222));
+    background-color: gradient(radial, 50% 50%, 0% 0%, 90% 40%, from(#4a5978), to(#2a3e5a));
 }
 
 .SelectButton {
